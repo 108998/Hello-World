@@ -1,2 +1,5 @@
 # Hello-World
-My First Project
+
+G-Day Everyone!
+
+Mitch here, your aussie codeing companion. enjoy my code!
